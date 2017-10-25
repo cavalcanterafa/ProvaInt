@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">provaint</string>
+    <string name="ligar">Ligar</string>
+    <string name="numero">Digite o Telefone</string>
+</resources>
